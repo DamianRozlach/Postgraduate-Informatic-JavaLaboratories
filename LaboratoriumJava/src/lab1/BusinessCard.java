@@ -8,16 +8,16 @@ public class BusinessCard {
 		
 		Scanner scanner = new Scanner(System.in); //stworzenie scannera
 		
-		System.out.println("Podaj Imie"); //wczytanie danych z konsol
+		System.out.println("Podaj Imie:"); //wczytanie danych z konsol
 		String name = scanner.nextLine();
 		
-		System.out.println("Podaj Nazwisko");
+		System.out.println("Podaj Nazwisko:");
 		String surname = scanner.nextLine();
 		
-		System.out.println("Podaj nr tel");
+		System.out.println("Podaj nr tel:");
 		String phone = scanner.nextLine();
 		
-		System.out.println("Podaj adres");
+		System.out.println("Podaj adres:");
 		String adress = scanner.nextLine();
 		
 		String first_line = "* " + name + " " + surname;     // sklejenie danych w Stringi do pierwszej i drugiej lini
