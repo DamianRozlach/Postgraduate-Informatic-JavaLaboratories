@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\damia\Documents\GitHubRepositories\Postgraduate-Informatic-JavaLaboratories\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-828408082.index
-2642247991.index
