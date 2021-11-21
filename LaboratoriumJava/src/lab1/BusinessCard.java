@@ -1,5 +1,5 @@
 package lab1;
-//Damian Rozlach lab 1 zad1
+//Damian Rozlach lab 1 zad1 BusinessCard
 
 import java.util.Scanner;
 
