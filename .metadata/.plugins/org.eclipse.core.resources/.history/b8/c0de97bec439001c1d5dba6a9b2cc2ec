@@ -1,0 +1,25 @@
+package lab1;
+//Damian Rozlach lab1 zad 4
+
+public class LoginGenerator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 String[] studentNames = { "Budynek Piotr", 
+                 "Chalupa Krystyna", 
+                 "Wiezowiec Jan",
+                 "Szkieletor Andrzej",
+                 "Domek Marianna" };
+		 String emailEnd = "@student.agh.edu.pl";
+		 String[] studentEmails = new String[studentNames.length];
+		 String x;
+		 String[] y;
+		 for(int i = 0; i< studentNames.length;i++) {
+			 x = studentNames[i];
+			 y=x.split(" ");
+			 System.out.println(y[0]);
+		 }
+
+	}
+
+}

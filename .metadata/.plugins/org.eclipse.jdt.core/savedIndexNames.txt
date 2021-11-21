@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\damia\Documents\Studia Podyplomowe\Eclipse Workspace\.metadata\.plugins\org.eclipse.jdt.core
+2642247991.index
+828408082.index
+1865797976.index

@@ -1,0 +1,41 @@
+package lab1;
+
+import java.util.Scanner;
+
+public class Zad3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Ile ocen bedzie wchodziło w skład sredniej");
+		int liczbaOcen = scanner.nextInt();
+		int[] oceny = new int[liczbaOcen];
+		for(int i=0; i < liczbaOcen; i++) {
+			System.out.printf("Podaj ocene nr %d z %d \n", i+1, liczbaOcen);		
+			oceny[i] = scanner.nextInt();
+		}
+		double srednia = average(oceny);
+		System.out.printf("Srednia ocen wynosi %.2f", srednia);
+		
+		
+		scanner.close();
+	}
+	
+	public static double average(int[] marks) {
+		int sum=0;
+		
+		for(int i=0; i<marks.length; i++) {
+			sum += marks[i];
+		}
+		return sum/(double)marks.length;
+	}
+	
+	public static int najwyzsza(int[] marks) {
+		int najwyzsza = 0;
+		for(int i=0; i<marks.length;i++) {
+			if (marks[i] > najwyzsza) najwyzsza = marks[i];
+		}
+		return najwyzsza;
+	}
+
+}

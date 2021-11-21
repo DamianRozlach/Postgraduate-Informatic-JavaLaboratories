@@ -1,0 +1,12 @@
+package lab1;
+
+import java.util.Scanner;
+
+public class Zad4Dividers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
