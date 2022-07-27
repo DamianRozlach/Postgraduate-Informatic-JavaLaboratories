@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.jtp.fp.PlayWithMoviesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-15T23:04:22" hostname="LAPTOP-C930" time="1006.352">
+  <properties/>
+  <testcase name="testEx01()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.115"/>
+  <testcase name="testEx02()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.017"/>
+  <testcase name="testEx03()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.035"/>
+  <testcase name="testEx04()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.01"/>
+  <testcase name="testEx05()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.05"/>
+  <testcase name="testEx06()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.037"/>
+  <testcase name="testEx07()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.016"/>
+  <testcase name="testEx08()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.044"/>
+  <testcase name="testEx09()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="493.821"/>
+  <testcase name="testEx10()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="512.202"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
